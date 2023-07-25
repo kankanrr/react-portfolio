@@ -8,7 +8,7 @@ import Resume from "./components/Resume";
 import Footer from "./components/Footer";
 
 export default function App() {
-  const imageURL = "./luca-bravo-XJXWbfSo2f0-unsplash.jpg";
+  const imageURL = "./punkjack.jpg";
   return (
     <main
       className="text-gray-400 bg-gray-900 body-font bg-cover bg-center"
