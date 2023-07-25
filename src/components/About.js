@@ -11,9 +11,8 @@ export default function About() {
             participate other tech related activities.
           </h1>
           <p className="mb-8 leading-relaxed">
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui
-            laborum quasi, incidunt dolore iste nostrum cupiditate voluptas?
-            Laborum, voluptas natus?
+            Welcome to my Portfolio ! I am a tech lover and I love everything
+            from general hardware tech ranging to video games and beyond !
           </p>
           <div className="flex justify-center">
             <a

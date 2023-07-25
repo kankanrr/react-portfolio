@@ -1,35 +1,33 @@
 export const projects = [
   {
-    title: "React Reserve",
-    subtitle: "MERN Stack",
+    title: "Food for Thought",
+    subtitle: "A Recipe Finder app",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "Using a recipe finder api, users can search ingredients and find recipes that include the searched for ingredients.",
     image: "./project-1.gif",
-    link: "https://reactbootcamp.com",
+    link: "https://github.com/DanielG808/food-for-thought",
   },
   {
-    title: "React Tracks",
-    subtitle: "React and Python",
+    title: "LegendSmith",
+    subtitle: "A fantasy character builder app",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "Using Ai technology such as ChatGPT & AI Image generation, users can build their own characters which come with ai generated pictures as well.",
     image: "./project-2.gif",
-    link: "https://reactbootcamp.com",
+    link: "https://github.com/branchwag/character-generator",
   },
   {
-    title: "DevChat",
-    subtitle: "React and Firebase",
-    description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-3.gif",
-    link: "https://reactbootcamp.com",
+    title: "My Github Placeholder",
+    subtitle: "My Github Page",
+    description: "Sample Text",
+    image: "./Mygithub.PNG",
+    link: "https://github.com/kankanrr",
   },
   {
-    title: "Epic Todo App",
-    subtitle: "React Hooks",
-    description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-4.gif",
-    link: "https://reactbootcamp.com",
+    title: "My Github Placeholder",
+    subtitle: "My Github Page",
+    description: "Sample Text",
+    image: "./Mygithub.PNG",
+    link: "https://github.com/kankanrr",
   },
 ];
 
