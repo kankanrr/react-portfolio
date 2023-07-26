@@ -22,10 +22,10 @@ export default function Resume() {
             <div className="flex">
               <div className="px-8 py-10 relative z-10 w-full border-4 border-gray-800 bg-gray-900 opacity-100 hover:bg-gray-900">
                 <h2 className="tracking-widest text-sm title-font font-medium text-green-400 mb-1">
-                  LMB's Resume
+                  My Resume
                 </h2>
                 <h1 className="title-font text-lg font-medium text-white mb-3">
-                  Click to view full document
+                  Click here to view full document
                 </h1>
                 <p className="leading-relaxed">
                   Resume hosted on google docs for ease of access
