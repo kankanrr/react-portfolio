@@ -4,7 +4,7 @@ export const projects = [
     subtitle: "A Recipe Finder app",
     description:
       "Using a recipe finder api, users can search ingredients and find recipes that include the searched for ingredients.",
-    image: "./food-for-thought.png",
+    image: "./food-for-thought.PNG",
     link: "https://github.com/DanielG808/food-for-thought",
   },
   {
@@ -12,7 +12,7 @@ export const projects = [
     subtitle: "A fantasy character builder app.",
     description:
       "Using Ai technology such as ChatGPT & AI Image generation, users can build their own characters which come with ai generated pictures as well.",
-    image: "./CharacterForm.png",
+    image: "./CharacterForm.PNG",
     link: "https://github.com/branchwag/character-generator",
   },
   {
@@ -20,8 +20,8 @@ export const projects = [
     subtitle: "A social music streaming app.",
     description:
       "By using the TuneHub app users can stream music from their favorite artists and interact with friends by adding and messaging them.",
-    image: "./webpage.png",
-    link: "https://github.com/kankanrr",
+    image: "./webpage.PNG",
+    link: "https://github.com/ChrisLee2477/TuneHub",
   },
   {
     title: "My Github Placeholder",
